@@ -2,7 +2,7 @@
 > A simulation of a German encryption machine called Enigma used in WW2
 
 ## Enigma Machine
-Enigma machines cycle through a string character by character, performing a number of distinct operations on the current character to get the cypher and when those new characters are combined again, the final product is the encrypted message. During the early 20th century, Enigma was one of the most powerful cyphering tool and was considered "impossible" to crack. However, this did not stop some mathematicians from cracking the code. Alan Turing and other Polish mathematicians were able to decrypt the hidden german messages by building the first computer during WW2 which helped save the Allied Powers.
+Enigma machines cycle through a string character by character, performing a number of distinct operations on the current character to convert it and when those new characters are combined again, the final product is the encrypted message. During the early 20th century, Enigma was one of the most powerful cyphering tool and was considered "impossible" to crack. However, this did not stop some mathematicians from cracking the code. Alan Turing and other Polish mathematicians were able to decrypt the hidden german messages by building the first computer during WW2 which helped save the Allied Powers.
 
 ### Cycle of Conversion Operations
 Each character goes through a cycle of operations that go in the following order:
