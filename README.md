@@ -74,3 +74,9 @@ possible Enigma settings in this simulation.
 ----
 
 **So, heres my challenge to you. Can you decipher the encrypted Enigma messages returned from the simulation without looking at the daily enigma settings?**
+
+----
+
+This project was heavily inspired by a movie called "The Immitation Game" which explains how Alan Turing built the first computer to save the Allied Powers from WW2 by breaking the german enigma machine so they could decipher the german messages being broadcasted by the German Army.
+
+*Developed by BooleanCube :]*
