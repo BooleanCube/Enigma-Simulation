@@ -13,8 +13,8 @@ Each character goes through a cycle of operations that go in the following order
 - Plugboard
 
 > **Plugboard** => A board with letters and there are ~10 plugs which pair 2 letters. So when there is an eletrical signal that passes through the plugboard it swaps the letter if it is plugged in with a different letter. <br>
-> **Rotor** => A wheel with random letters connected with other random letters through a bunch of random wiring and the connections can be cycled through by rotating the wheel so they connections will not always be the same. Each rotor has a notch to determine how many wheels will be spinning so the connections can be changed accordingly. <br>
-> **Reflector** => After passing through the 3 rotors normally and converting the character 3 times and spinning the rotors, the reflector again filled with random wiring swaps the letter and sends it back through the rotors in reverse order back to the plugboard.
+> **Rotor** => A wheel with random letters connected with other random letters through a bunch of random wiring and the connections that can be cycled through by rotating the wheel so they connections will not always be the same. Each rotor has a notch to determine how many wheels will be spinning so the connections can be changed accordingly. <br>
+> **Reflector** => After passing through the 3 rotors normally and converting the character 3 times and spinning the rotors, it exits the wheels and goes into the reflector which is filled with random paired wiring that swaps the letter and sends it back through the rotors in reverse order back to the plugboard.
 
 ## Simulation
 This simulation is a C++ implementation of the Enigma Machine. It generates a random Enigma setting for the day, and allows you to encrypt any message that you want.
