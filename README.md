@@ -21,11 +21,12 @@ This simulation is a C++ implementation of the Enigma Machine. It generates a ra
 
 ### Possible Settings
 
-*The method I used to display connections in rotors and reflectors down below is by using maps. They work like so:*
-`current letter = D (position 4 in the alphabet)` <br>
-`map = "EKM(F)LGDQVZNTOWYHXUSPAIBRCJ"` <br>
-`converted letter = D -> F`
-
+*The method I used to display connections in rotors and reflectors down below is by using maps.*
+```
+current letter = D (position 4 in the alphabet)
+map = "EKM(F)LGDQVZNTOWYHXUSPAIBRCJ"
+converted letter = D -> F
+```
 - Rotor Wheels (8):
 ```
 Rotor I: map="EKMFLGDQVZNTOWYHXUSPAIBRCJ", notch="R"
