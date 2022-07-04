@@ -222,7 +222,7 @@ int main() {
         transform(message.begin(), message.end(), message.begin(), ::toupper);
 
         if(!isValidInput(message)) {
-            std::cout << "Invalid Input! Try again.." << std::endl;
+            std::cout << "Invalid Input! The input only takes english letters." << std::endl;
             continue;
         }
 
