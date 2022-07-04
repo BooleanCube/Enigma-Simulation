@@ -14,7 +14,7 @@
 
 class tools {
 public:
-    static int random_int(int start, int bounds);
+    static int random_int(int start, int bound);
     static std::vector<std::string> &split(const std::string &s, char delim);
     static std::string join(std::vector<std::string>& list, const std::string& separator);
 };
